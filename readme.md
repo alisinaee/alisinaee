@@ -22,7 +22,6 @@
 
 - **Full Name:** Ali Sinaee
 - **Date of Birth:** January 27, 1996
-- **Age:** 28
 - **Location:** Tehran, Iran
 - **Languages:** Persian (Native), English (Fluent)
 - **Education:** Bachelor of Computer Engineering - Bu-Ali Sina University
@@ -50,6 +49,8 @@
 
 **Mid-Level:**
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Swift UI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -89,8 +90,16 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+**iOS Development:**
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 **Project Management:**
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -140,6 +149,32 @@
 - **LoD** - Law of Demeter
 - **IoC** - Inversion of Control
 - **SLAP** - Single Level of Abstraction Principle
+
+## iOS Native & Flutter-iOS Development
+
+### iOS Native Expertise
+- **Swift & SwiftUI:** Mid-level proficiency in native iOS development
+- **UIKit:** Experience with traditional iOS UI framework
+- **Xcode:** Proficient in Apple's IDE for iOS development
+- **iOS Platform Features:** Integration of native iOS capabilities
+
+### Flutter-iOS Integration
+- **Platform Channels:** Implementing native iOS functionality in Flutter apps
+- **Method Channels:** Bidirectional communication between Flutter and iOS native code
+- **Plugin Development:** Creating custom Flutter plugins with Swift/Objective-C
+- **iOS-specific APIs:** Integration of iOS-only features (Face ID, Touch ID, etc.)
+- **CocoaPods:** Managing iOS dependencies in Flutter projects
+- **App Store Deployment:** Experience with TestFlight and App Store submission process
+
+### iOS Platform Skills
+- **Native Modules:** Writing Swift/Objective-C code for Flutter plugins
+- **iOS Permissions:** Handling iOS-specific permission requests
+- **Push Notifications:** APNs integration with Firebase
+- **Deep Linking:** Universal Links and custom URL schemes
+- **Background Tasks:** iOS background execution and lifecycle management
+- **Security:** Keychain integration, biometric authentication
+- **Signing & Provisioning:** Code signing, certificates, and provisioning profiles
+- **App Store Optimization:** App Store Connect management and optimization
 
 ## AI & Modern Development Tools
 

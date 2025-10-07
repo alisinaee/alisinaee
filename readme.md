@@ -1,7 +1,7 @@
 # Ali Sinaee - Senior Flutter Expert
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Ali Sinaee&animation=fadeIn&type=waving&color=gradient&height=80&locale=en"/>
+  <img src="https://capsule-render.vercel.app/api?text=Ali%20Sinaee&animation=fadeIn&type=waving&color=gradient&height=80&locale=en"/>
 </p>
 
 <h1 align="center">Senior Flutter Expert & Mobile App Developer</h1>

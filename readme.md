@@ -7,6 +7,12 @@
 <h1 align="center">Senior Flutter Expert & Mobile App Developer</h1>
 
 <p align="center">
+  <a href="https://github.com/alisinaee/alisinaee/raw/main/AliSinaee_compressed_2.pdf" download>
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume PDF"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://instagram.com/alisinaee" target="_blank">
     <img height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>

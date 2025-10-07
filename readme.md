@@ -120,6 +120,12 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
+**App Store Publishing:**
+![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Firebase App Distribution](https://img.shields.io/badge/Firebase_App_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 **AI & Modern Development:**
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)

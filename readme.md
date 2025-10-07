@@ -7,14 +7,14 @@
 <h1 align="center">Senior Flutter Expert & Mobile App Developer</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alisinaee">
-    <img height="40" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <a href="https://instagram.com/alisinaee" target="_blank">
+    <img height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/alisinaee">
-    <img height="40" src="https://user-images.githubusercontent.com/46517096/166974388-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <a href="https://www.linkedin.com/in/alisinaee" target="_blank">
+    <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:alisinaiasl@gmail.com">
-    <img height="40" src="https://user-images.githubusercontent.com/46517096/166974388-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <a href="https://github.com/alisinaee" target="_blank">
+    <img height="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 

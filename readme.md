@@ -201,8 +201,50 @@
 
 ## Professional Experience
 
+### Senior Flutter Developer (Freelance / Side Project) - Oct 2024 - Present
+**IDA Company** | Remote
+
+**Project:** Home Palette: AI Decor & Design - AI-powered home decoration and room remodeling app
+
+**Project Description:**
+Home Palette is an AI-powered interior design and home decoration application that helps users visualize and redesign their living spaces. Users can capture photos of any room and use advanced AI to generate realistic redesign suggestions, experiment with different furniture arrangements, wall colors, flooring options, and decor styles. The app provides house renovation and room remodeling capabilities powered by cutting-edge artificial intelligence, making professional interior design accessible to everyone.
+
+**My Role:**
+- **Sole Flutter Developer** — Fully designed and built the entire Flutter application from scratch for both iOS and Android
+- Implemented AI-driven room redesign features with image processing and real-time AI generation
+- Developed in-app purchase flows and subscription management for both platforms
+- Handled App Store and Google Play submission, review processes, and ongoing releases
+- Integrated third-party AI services for interior design generation and photo processing
+- Optimized app performance for smooth image handling and AI processing workflows
+
+**Architecture & Tools:**
+- **Architecture:** Clean Architecture
+- **State Management:** BLoC
+- **Source Control:** GitHub
+- **Deployment:** App Store, Google Play
+- **Development Process:** TDD, DDD
+
+**Platforms:** Android, iOS
+
+**Technologies:**
+- **Core:** Dart & Flutter (cross-platform)
+- **AI Integration:** AI-powered room redesign and interior decoration generation
+- **Image Processing:** Photo capture, image manipulation, and AI-enhanced visualization
+- **Monetization:** In-app purchases and subscription management
+- **Analytics & Monitoring:** Crash reporting and user analytics
+
+**Related Links:**
+- [App Store](https://apps.apple.com/app/home-palette-ai-decor-design/id6756274814)
+
+**Key Achievements:**
+- Solely built and launched a complete AI-powered interior design application on both iOS and Android from the ground up
+- Successfully published on the App Store with seamless AI-driven room redesign experience
+- Delivered a polished, production-ready product combining Flutter expertise with AI/ML integration
+
+---
+
 ### Senior Flutter Developer - Oct 2024 - Present
-**ToBank (GardeshPay) - Gardeshgari Bank** | Tehran, Iran
+**ToBank (GardeshPay) - Gardeshgari Bank (Tourism Bank of Iran)** | Tehran, Iran
 
 **Project:** ToBank - Official digital banking solution serving millions of Iranian users
 
@@ -562,6 +604,11 @@ Attending My kargozar project, which is an application with more than 10,000 act
 
 ## Key Achievements
 
+### AI & Interior Design
+- **Home Palette Launch:** Solely built and launched an AI-powered interior design app on both iOS and Android platforms
+- **AI Integration:** Integrated cutting-edge AI services for room redesign and home decoration generation
+- **End-to-End Delivery:** Managed full product lifecycle from development through App Store and Google Play publication
+
 ### Banking & Financial Services
 - **ToBank Innovation:** Led development of official digital banking solution serving millions of Iranian users with secure financial services
 - **Security Excellence:** Implemented enterprise-grade security with encrypted storage, device/session binding, anti-fraud logic, and E2E validation for high-value transactions
@@ -598,6 +645,7 @@ Attending My kargozar project, which is an application with more than 10,000 act
 
 ## Current Focus
 
+- **AI-Powered Applications:** Building AI-driven mobile apps (Home Palette: AI Decor & Design)
 - **Financial Technology:** Continuing work on ToBank digital banking platform
 - **Security Enhancement:** Implementing advanced security measures for financial applications
 - **AI Integration:** Exploring AI/ML integration in mobile applications
